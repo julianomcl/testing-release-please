@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/julianomcl/testing-release-please/compare/v1.1.0...v2.0.0) (2022-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* change anchor color
+
+### Features
+
+* add new message ([3810e0f](https://github.com/julianomcl/testing-release-please/commit/3810e0fdcfbc105071fc7468096c804430e5deb2))
+* change anchor color ([f9ce9f1](https://github.com/julianomcl/testing-release-please/commit/f9ce9f1fd35d1ead8ff40fdac0edf6abf9786152))
+
+
+### Bug Fixes
+
+* center align position ([e1698d5](https://github.com/julianomcl/testing-release-please/commit/e1698d56f70a11061016692d5f0f43c4dc5fed85))
+
 ## [1.1.0](https://github.com/julianomcl/testing-release-please/compare/v1.0.0...v1.1.0) (2022-07-11)
 
 
