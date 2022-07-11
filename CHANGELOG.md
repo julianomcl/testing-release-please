@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/julianomcl/testing-release-please/compare/v1.0.0...v1.1.0) (2022-07-11)
+
+
+### Features
+
+* change align position ([b82b146](https://github.com/julianomcl/testing-release-please/commit/b82b146e27a772b30ed05c3b89f4693779e5bac9))
+* change background color ([24a0acf](https://github.com/julianomcl/testing-release-please/commit/24a0acfa5774de9f2d081c0b9cf519411f0e4f7f))
+
 ## 1.0.0 (2022-07-11)
 
 
